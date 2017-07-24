@@ -4,12 +4,25 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm Jeff Purser, a full stack engineer at Schoolzilla.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+My favorite tech stacks are:
+
+Microservice: Java / Groovy + Spring Boot + Gradle + Flyway + Spring JPA
+Microservice: Python + Flask + SQLAlchemy
+Web App: Typescript + Javascript + Angular 2
+Deployment: Git + Jenkins + Docker + Rancher
+Cloud: AWS, SQS, S3, EC2, RDS (PostgreSQL, MySQL, SQLServer)
+
+Current interests include:
+
+Data Visualization
+Building useful apps from large public data sets
+Blockchains and cryptocurrency
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[self2software@gmail.com](mailto:self2software@gmail.com)
